@@ -7,7 +7,7 @@ const toWords =(digit)=>{
         case 3:
             return "Three";
         case 4:
-            return "Four";
+            return "Fuur";
         case 5:
             return "Five";
         case 6:
