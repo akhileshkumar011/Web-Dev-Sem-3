@@ -26,4 +26,4 @@ const deleteData = async (fname) => {
 // await appendData("happy.txt", "FSD is interesting");
 // await readData("happy.txt");
 
-await deleteData("happy.txt");
+await deleteData("stud.txt");
