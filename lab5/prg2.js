@@ -2,6 +2,7 @@ import http from 'http';
 
 const server = http.createServer((req, res) => {
     res.write("<h1>Hello Client</h1>");
+     res.write("<h1>Akhilesh</h1>");
     res.end();
 });
 
